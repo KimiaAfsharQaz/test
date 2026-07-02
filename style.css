@@ -3,7 +3,7 @@ body {
   background-color:red;
 }
 h1,h2{
-  color: red;
+  color: yellow;
 }
 .grid {
   display: grid;
